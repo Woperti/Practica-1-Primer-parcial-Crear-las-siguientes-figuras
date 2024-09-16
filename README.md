@@ -52,4 +52,4 @@ align-items
         }
 ```
 ## Salida del programa
-![Descripción de la imagen](./images/primer-practica.png)
+![Descripción de la imagen](./primer-practica.png)
